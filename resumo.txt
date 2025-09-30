@@ -18,4 +18,4 @@ Funções que alteram ou ampliam o comportamento de outras funções ou métodos
 
 - DDD (Domain-Driven Design)
 
-Abordagem de desenvolvimento que coloca o domínio de negócio no centro do projeto de software. Organiza o sistema em entidades, objetos de valor, eventos, agregados e repositórios, buscando refletir fielmente as regras e processos da aplicação para facilitar manutenção, evolução e entendimento do código.s
+Abordagem de desenvolvimento que coloca o domínio de negócio no centro do projeto de software. Organiza o sistema em entidades, objetos de valor, eventos, agregados e repositórios, buscando refletir fielmente as regras e processos da aplicação para facilitar manutenção, evolução e entendimento do código
