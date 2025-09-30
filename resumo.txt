@@ -1,0 +1,21 @@
+Principais funcionalidades:
+ 
+- @staticmethod 
+
+Método definido dentro de uma classe que não depende de atributos da instância nem da própria classe. É utilizado para funções utilitárias relacionadas à lógica da classe, mas que não precisam acessar ou modificar seu estado.
+
+- Dataclasses
+
+Recurso do Python que reduz a necessidade de código repetitivo ao criar classes voltadas para armazenar dados. Elas geram automaticamente métodos como inicialização, representação e comparação, além de permitir configuração de valores padrão e controle sobre quais campos participam da criação ou exibição.
+
+- Eventos de Domínio
+
+Notificações que representam fatos importantes ocorridos no contexto do negócio. Servem para registrar mudanças ou acionar outras partes do sistema quando algo relevante acontece, mantendo o código desacoplado e facilitando integrações.
+
+- Decoradores
+
+Funções que alteram ou ampliam o comportamento de outras funções ou métodos sem modificar seu conteúdo interno. São utilizados para aplicar regras transversais, como validações, autenticação, registro de logs ou controle de acesso.
+
+- DDD (Domain-Driven Design)
+
+Abordagem de desenvolvimento que coloca o domínio de negócio no centro do projeto de software. Organiza o sistema em entidades, objetos de valor, eventos, agregados e repositórios, buscando refletir fielmente as regras e processos da aplicação para facilitar manutenção, evolução e entendimento do código.s
